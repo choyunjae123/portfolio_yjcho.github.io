@@ -690,6 +690,9 @@ footer {
     display: none;
 }
 
+.left-align {
+    text-align: left;
+}
 /*
     -------------------------------
     ----- 9. Skills Styles -----
